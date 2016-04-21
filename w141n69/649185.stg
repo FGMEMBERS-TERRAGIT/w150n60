@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -140.186667 69.597778 -108.28 180
+OBJECT_SHARED Models/Communications/radome-16m.xml -140.177732 69.59447 4.57 0
+OBJECT_SHARED Models/Communications/radome-16m.xml -140.177233 69.594553 4.55 0
+OBJECT_SHARED Models/Airport/EIDW_Radar.ac -140.178371 69.595146 3.84 65
