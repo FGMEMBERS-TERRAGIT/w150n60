@@ -1,1 +1,8 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -146.67925 60.863639 -191.77 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -146.68917 60.87216 0.00 294.07
+OBJECT_SHARED Models/lib/SmHangar.ac -146.68720 60.87162 15.35 298.28
+OBJECT_SHARED Models/Transport/van_silver.ac -146.68690 60.87162 17.89 25.87
+# END dsf2stg
